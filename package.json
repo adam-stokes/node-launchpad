@@ -1,0 +1,24 @@
+{
+  "name": "node-launchpad",
+  "version": "0.0.0",
+  "description": "a nodejs library for launchpad.net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/battlemidget/node-launchpad.git"
+  },
+  "keywords": [
+    "launchpad",
+    "oauth",
+    "api"
+  ],
+  "author": "Adam Stokes",
+  "license": "AGPLv3",
+  "bugs": {
+    "url": "https://github.com/battlemidget/node-launchpad/issues"
+  },
+  "homepage": "https://github.com/battlemidget/node-launchpad"
+}
