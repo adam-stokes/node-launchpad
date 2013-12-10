@@ -1,5 +1,5 @@
 {
-  "name": "node-launchpad",
+  "name": "launchpad.net.js",
   "version": "0.0.0",
   "description": "a nodejs library for launchpad.net",
   "main": "index.js",
